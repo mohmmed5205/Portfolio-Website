@@ -2,20 +2,20 @@ import { Github, ExternalLink, FolderGit2 } from 'lucide-react';
 
 const projects = [
   {
-    title: 'E-Commerce Web Application',
+    title: 'To-Do List Application',
     description:
-      'Designed and built a fully responsive product listing and detail interface with smooth UX. Integrated REST APIs for dynamic product data fetching, filtering, and cart management. Optimized bundle size and loading speed by implementing lazy loading and code splitting.',
-    tech: ['React.js', 'TypeScript', 'REST API', 'Lazy Loading'],
+      'Built a clean and responsive task management application to organize daily activities efficiently ,Implemented core features such as adding, editing, deleting, and marking tasks as completed Developed task filtering functionality (All / Active / Completed) to enhance user experience and productivity  Utilized local storage to persist user data across sessions without backend integration Designed an intuitive and user-friendly interface with focus on simplicity and usability Applied component-based architecture to ensure scalability and maintainability',
+    tech: ['React.js',  'Local Storage', 'State Management', 'UI Design'],
     github: 'https://github.com/mohmmed5205',
-    live: null,
+    live: 'https://todt-list.netlify.app/',
   },
   {
     title: 'Admin Dashboard Application',
-    description:
+    description: 
       'Built a multi-page dashboard with dynamic charts, data tables, and real-time updates. Implemented global state management for seamless data flow across components. Designed a clean, accessible UI with attention to responsiveness across all screen sizes.',
     tech: ['React.js', 'State Management', 'UI Design', 'Recharts'],
     github: 'https://github.com/mohmmed5205',
-    live: null,
+    live: 'https://dashboard-delta-blush-65.vercel.app/',
   },
 ];
 
