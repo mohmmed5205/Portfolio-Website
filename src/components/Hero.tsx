@@ -28,7 +28,7 @@ export default function Hero() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
             <a
-              href="mailto:mohmmwdbk48@gmail.com"
+              href="mailto:mohmmedbk48@gmail.com"
               className="flex items-center gap-2 bg-primary hover:bg-blue-600 text-white px-8 py-3 rounded-full font-medium transition-transform hover:scale-105 active:scale-95"
             >
               <Mail size={20} />
