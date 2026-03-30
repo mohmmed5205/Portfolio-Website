@@ -3,8 +3,8 @@ import { Mail, Github, Linkedin, Phone, Send } from 'lucide-react';
 const contactLinks = [
   {
     label: 'Email',
-    value: 'mohmmwdbk48@gmail.com',
-    href: 'mailto:mohmmwdbk48@gmail.com',
+    value: 'mohmmedbk48@gmail.com',
+    href: 'mailto:mohmmedbk48@gmail.com',
     icon: Mail,
     color: 'text-red-500',
     bg: 'bg-red-50 dark:bg-red-900/20',
